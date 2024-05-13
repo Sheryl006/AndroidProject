@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "136148029369",
+    "firebase_url": "https://ogada-ssecondapplication-default-rtdb.firebaseio.com",
+    "project_id": "ogada-ssecondapplication",
+    "storage_bucket": "ogada-ssecondapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136148029369:android:8a3bbd459cb2d175dcb068",
+        "android_client_info": {
+          "package_name": "com.example.myproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVsKOAvgVkWRnwBJLhjFh8goV0AjQgW4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136148029369:android:cb8b7afd9820ce3bdcb068",
+        "android_client_info": {
+          "package_name": "com.example.ogadassecondapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVsKOAvgVkWRnwBJLhjFh8goV0AjQgW4I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
